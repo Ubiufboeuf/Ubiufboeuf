@@ -15,7 +15,7 @@
 <br>
 
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=astro,preact,tailwind,ts,bun,express,sqlite,cloudflare' />
+  <img src='https://skillicons.dev/icons?i=astro,tailwind,ts,bun,express,sqlite,cloudflare' />
 </p>
 
 <h3>Mis proyectos principales</h3>
