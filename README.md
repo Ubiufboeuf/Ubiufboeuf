@@ -12,12 +12,10 @@
   <a href='mailto:mangufaf@gmail.com'><img src='https://img.shields.io/badge/Correo-E41833?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 </div>
 
-<img src="https://skillicons.dev/icons?i=astro,tailwind,ts,bun,express,sqlite,cloudflare" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/preact/preact-original.svg" height="48" />
 <br>
 
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=astro,preact,tailwind,ts,bun,express,sqlite,cloudflare' />
+  <img src='https://skillicons.dev/icons?i=astro,tailwind,ts,bun,express,sqlite,cloudflare' />
 </p>
 
 <h3>Mis proyectos principales</h3>
