@@ -5,7 +5,7 @@
 
 <br>
 
-<p align='center'>Desarrollo herramientas enfocadas en resolver problemas reales (y a veces por gusto), con foco en rendimiento, usabilidad y una buena experiencia de desarrollo.</p>
+<p align='center'>Desarrollo herramientas enfocadas en resolver problemas reales (y a veces por gusto),<br>con foco en rendimiento, usabilidad y una buena experiencia de desarrollo.</p>
 
 <div align='center'>
   <a href='https://www.linkedin.com/in/federico-artencio-8b6667320'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
