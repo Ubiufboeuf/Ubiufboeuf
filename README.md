@@ -23,14 +23,14 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-      <a href='https://zenith-6nl.pages.dev' target='_blank'>
+      <a href='https://zenith-6nl.pages.dev'>
         <img src="https://github.com/user-attachments/assets/a9911a3e-e95c-400a-a419-3a0789d77646" alt="Zenith - Sistema gestión y ventas" width="100%" />
         <br />
         <b>Zenith</b>
       </a>
     </td>
     <td width="50%" align="center">
-      <a href='https://monado.pages.dev' target='_blank'>
+      <a href='https://monado.pages.dev'>
         <img src="https://github.com/user-attachments/assets/d47539c1-075e-47a3-a4f9-9e3ec6b28847" alt="Monado - Video Player" width="100%" />
         <br />
         <b>Monado</b>
@@ -40,7 +40,7 @@
   <tr>
     <td colspan='2' align="center">
     <br>
-      <a href='https://npmjs.org/@yt-kit/core' target='_blank'>
+      <a href='https://npmjs.org/@yt-kit/core'>
         <img src="https://github.com/user-attachments/assets/37c3cbcf-f888-4c3f-a421-7ac265adcc05" alt="@yt-kit/core - SDK" width="80%" />
         <br />
         <b>@yt-kit/core</b>
