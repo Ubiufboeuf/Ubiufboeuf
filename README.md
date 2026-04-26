@@ -8,9 +8,9 @@
 <p align='center'>Desarrollo herramientas enfocadas en resolver problemas reales (y a veces por gusto),<br>con foco en rendimiento, usabilidad y una buena experiencia de uso.</p>
 
 <div align='center'>
-  <a href='https://www.linkedin.com/in/federico-artencio-8b6667320'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
-  <a href='mailto:fede.2007.artencio.u@gmail.com'><img src='https://img.shields.io/badge/Correo-E41833?style=for-the-badge&logo=gmail&logoColor=white' /></a>
   <a href='https://portafolio-dej.pages.dev'><img src='https://img.shields.io/badge/Portafolio-%232C3454.svg?style=for-the-badge&logoColor=Blue' /></a>
+  <a href='mailto:fede.2007.artencio.u@gmail.com'><img src='https://img.shields.io/badge/Correo-E41833?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+  <a href='https://www.linkedin.com/in/federico-artencio-8b6667320'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 </div>
 
 <br>
