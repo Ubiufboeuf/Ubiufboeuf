@@ -5,7 +5,7 @@
 
 <br>
 
-<p align='center'>Desarrollo herramientas enfocadas en resolver problemas reales (y a veces por gusto),<br>con foco en rendimiento, usabilidad y una buena experiencia de uso.</p>
+<p align='center'>Desarrollo herramientas enfocadas en resolver problemas reales (y muchas veces por gusto),<br>con foco en rendimiento, usabilidad y una buena experiencia de uso.</p>
 
 <div align='center'>
   <a href='https://portafolio-dej.pages.dev'><img src='https://img.shields.io/badge/Portafolio-%232C3454.svg?style=for-the-badge&logoColor=Blue' /></a>
