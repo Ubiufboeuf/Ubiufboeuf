@@ -56,4 +56,4 @@
 
 - [**Zenith**](https://github.com/Ubiufboeuf/zenith): Sistema POS enfocado en velocidad, usabilidad y flujo de ventas eficiente.
 - [**Monado**](https://github.com/Ubiufboeuf/monado): Reproductor de video basado en YouTube donde el control lo tiene el usuario, no la plataforma.
-- [**zalk**](https://github.com/Ubiufboeuf/zalk): Calculadora web basada en el diseño de la calculadora de Samsung
+- [**zalk**](https://github.com/Ubiufboeuf/zalk): Calculadora web basada en el diseño y experiencia de la calculadora de Samsung
