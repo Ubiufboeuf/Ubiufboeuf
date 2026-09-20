@@ -41,10 +41,10 @@
   <tr>
     <td colspan='2' align="center">
     <br>
-      <a href='https://npmjs.org/@yt-kit/core'>
-        <img src="https://github.com/user-attachments/assets/e2cd500e-1a3a-4ea3-a3fa-cb47d59a3ea83" alt="@yt-kit/core - SDK" width="80%" />
+      <a href='https://zalk-dun.vercel.app/'>
+        <img src="https://github.com/user-attachments/assets/7d35e793-71f5-4bb8-959d-dcf1958d4a2a" alt="zalk - Calculadora" width="80%" />
         <br />
-        <b>@yt-kit/core</b>
+        <b>zalk</b>
       </a>
     </td>
   </tr>
@@ -56,4 +56,4 @@
 
 - [**Zenith**](https://github.com/Ubiufboeuf/zenith): Sistema POS enfocado en velocidad, usabilidad y flujo de ventas eficiente.
 - [**Monado**](https://github.com/Ubiufboeuf/monado): Reproductor de video basado en YouTube donde el control lo tiene el usuario, no la plataforma.
-- [**yt-kit**](https://github.com/Ubiufboeuf/yt-kit): SDK modular para manejo de video, sin dependencias y optimizado.
+- [**zalk**](https://github.com/Ubiufboeuf/zalk): Calculadora web basada en el diseño de la calculadora de Samsung
