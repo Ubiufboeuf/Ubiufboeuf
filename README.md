@@ -24,8 +24,8 @@
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-      <a href='https://zenith-6nl.pages.dev'>
-        <img src="https://github.com/user-attachments/assets/a9911a3e-e95c-400a-a419-3a0789d77646" alt="Zenith - Sistema gestión y ventas" width="100%" />
+      <a href='https://zenith-delta-dusky.vercel.app'>
+        <img src="https://github.com/user-attachments/assets/e7802ec7-b4ac-4c50-b1b6-28668d9b394a" alt="Zenith - Sistema gestión y ventas" width="100%" />
         <br />
         <b>Zenith</b>
       </a>
