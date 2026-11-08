@@ -41,10 +41,10 @@
       </a>
     </td>
     <td width="50%" align="center">
-      <a href='https://api-workbench-kohl.vercel.app'>
-        <img src="https://github.com/user-attachments/assets/b3c4cce5-f94f-454b-bd8e-ecec1809c9da" alt="Api Workbench" width="100%" />
+      <a href='https://www.npmjs.com/package/@yt-dlx/kit'>
+        <img src="https://github.com/user-attachments/assets/b79636d4-bd06-4daf-949b-0a5a1822443d" alt="YT-DLX" width="100%" />
         <br />
-        <b>Api Workbench</b>
+        <b>YT-DLX</b>
       </a>
     </td>
   </tr>
@@ -56,4 +56,4 @@
 
 - [**Zenith**](https://github.com/Ubiufboeuf/zenith): Sistema POS enfocado en velocidad, usabilidad y flujo de ventas eficiente.
 - [**zalk**](https://github.com/Ubiufboeuf/zalk): Calculadora web basada en el diseño y experiencia de la calculadora de Samsung.
-- [**Api Workbench**](https://github.com/Ubiufboeuf/api-workbench): Cliente HTTP web ligero y rápido, diseñado para probar APIs desde el navegador.
+- [**YT-DLX**](https://github.com/Ubiufboeuf/yt-dlx-kit): Toolkit unificado para el manejo de contenido multimedia.
