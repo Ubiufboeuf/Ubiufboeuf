@@ -42,7 +42,7 @@
     </td>
     <td width="50%" align="center">
       <a href='https://www.npmjs.com/package/@yt-dlx/kit'>
-        <img src="https://github.com/user-attachments/assets/b79636d4-bd06-4daf-949b-0a5a1822443d" alt="YT-DLX" width="100%" />
+        <img src="https://github.com/user-attachments/assets/fb92ba83-930d-495a-b260-07229d59c66b" alt="YT-DLX" width="100%" />
         <br />
         <b>YT-DLX</b>
       </a>
